@@ -9,7 +9,7 @@ Como um quebra cabeça, que utiliza peças para criar algoritmos(etapas) para re
 
 ## Peças de uma linguagem
 
-- Comentários
+- [x]Comentários
 - Declaração de variaveis (const, let)
 - Operadores (atribuição, concatenação, matematicos, lógicos)
 - Tipos de dados (string, number, boolean)
@@ -22,3 +22,29 @@ Como um quebra cabeça, que utiliza peças para criar algoritmos(etapas) para re
 Coletar os dados
 Processar os dados (manipular, alterar...)
 Apresentar os dados
+
+## Escopo e variaveis
+
+Variaveis globais e locais 
+Constantes
+
+Let é uma variavel que guarda informação para ser utilizada depois, podendo ser modificada
+
+Const é uma variavel que guarda informação para ser utilizada depois, não podendo ser modificada
+
+## Função
+é uma caixinha, com varias informações dentro, coleta dado, processa dados e apresenta dados.
+
+## Tipos de dados
+
+- Strings
+São (textos) podem ser escritas destas formas: "" '' ``
+
+- Number
+Number: 2 1.4
+
+- Function
+
+## Operadores
+
+Operador de atribuição de valor 
