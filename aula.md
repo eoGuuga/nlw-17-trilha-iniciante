@@ -25,26 +25,46 @@ Apresentar os dados
 
 ## Escopo e variaveis
 
-Variaveis globais e locais 
-Constantes
+[x]Variaveis globais e locais 
+[x]Constantes
 
-Let é uma variavel que guarda informação para ser utilizada depois, podendo ser modificada
+[x]Let é uma variavel que guarda informação para ser utilizada depois, podendo ser modificada
 
-Const é uma variavel que guarda informação para ser utilizada depois, não podendo ser modificada
+[x]Const é uma variavel que guarda informação para ser utilizada depois, não podendo ser modificada
 
 ## Função
-é uma caixinha, com varias informações dentro, coleta dado, processa dados e apresenta dados.
+[x]é uma caixinha, com varias informações dentro, coleta dado, processa dados e apresenta dados.
 
 ## Tipos de dados
 
-- Strings
+[x] - Strings
 São (textos) podem ser escritas destas formas: "" '' ``
 
-- Number
+[x] - Number
 Number: 2 1.4
 
-- Function
+[x] - boolean
+true/false
+
 
 ## Operadores
 
-Operador de atribuição de valor 
+[x] Operador de atribuição de valor(=)
+[x] Operador de concatenação(+)
+
+## Estrutura de dados:
+
+### Arrays
+
+[x] Uma lista que contem qualquer tipo de dado.
+
+### Objetos
+
+- [x] Atributos e métodos
+- [x] Criação e manipulação de objetos
+- [x] Acesso a propriedades de objetos
+
+### Functions
+- [x] Criar, passar argumentos
+- [x] executar
+- [x] arrow function / named function
