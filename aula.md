@@ -37,13 +37,13 @@ Apresentar os dados
 
 ## Tipos de dados
 
-[x] - Strings
+- [x] Strings
 São (textos) podem ser escritas destas formas: "" '' ``
 
-[x] - Number
+- [x] Number
 Number: 2 1.4
 
-[x] - boolean
+- [x] boolean
 true/false
 
 
@@ -68,3 +68,11 @@ true/false
 - [x] Criar, passar argumentos
 - [x] executar
 - [x] arrow function / named function
+
+# Estrutura de repetição
+
+- [x] while
+
+# Condicionais
+
+- [x] switch

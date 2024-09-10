@@ -1,14 +1,19 @@
-let meta = {
-    value: 'correr muito',
-    checked: false,
+const start = () => {
+    let count = 0
+    while(true){
+        let opcao = "listar"
+        switch(opcao){
+            case "cadastrar":
+                console.log("vamos cadastrar")
+                break
+            case "listar":
+                console.log("vamos listar")
+                break
+            case "sair":
+                return
+        }
+    }
+
 }
 
-let metas = [
-    meta,
-    {
-        value: 'nao correr nada',
-        checked: true
-    }
-]
-
-console.log(metas[1].value)
+start()
