@@ -49,8 +49,9 @@ true/false
 
 ## Operadores
 
-[x] Operador de atribuição de valor(=)
-[x] Operador de concatenação(+)
+[x] Operador de atribuição de valor (=)
+[x] Operador de concatenação (+)
+[x] Operador de comparação (==) (!= comparação) (<=) (>=) (< >)
 
 ## Estrutura de dados:
 
@@ -76,7 +77,8 @@ true/false
 # Condicionais
 
 - [x] switch
-
+- [x] if/else
+ 
 # Modulos em node js
 
 - [x] Importação de modulos (require, CommonJS)
