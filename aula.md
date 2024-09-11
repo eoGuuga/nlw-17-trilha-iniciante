@@ -10,12 +10,12 @@ Como um quebra cabeça, que utiliza peças para criar algoritmos(etapas) para re
 ## Peças de uma linguagem
 
 - [x]Comentários
-- Declaração de variaveis (const, let)
-- Operadores (atribuição, concatenação, matematicos, lógicos)
-- Tipos de dados (string, number, boolean)
-- Estrutura de dados (functions, objects, array)
-- Controle de fluxo(if/else)
-- Estrutura de repetição (for, while)
+- [x] Declaração de variaveis (const, let)
+- [x] Operadores (atribuição, concatenação, matematicos, lógicos)
+- [x] Tipos de dados (string, number, boolean)
+- [x] Estrutura de dados (functions, objects, array)
+- [x] Controle de fluxo(if/else)
+- [x] Estrutura de repetição (for, while)
 
 ## Fases da resolução de um problema
 
@@ -58,7 +58,7 @@ true/false
 ### Arrays
 
 [x] Uma lista que contem qualquer tipo de dado.
-[x] Metodos de array: push, [find, forEach, filter]: HOF (Higher Order Functions)
+[x] Metodos de array: push, [find, forEach, filter, map]: HOF (Higher Order Functions)
  
 ### Objetos
 

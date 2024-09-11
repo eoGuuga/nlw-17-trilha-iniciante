@@ -5,4 +5,4 @@
 - [x] Marcar metas como concluida
 - [x] Marcar/Desmarcar
 - [x] Remover metas
-- Sistema de mensagens
+- [x] Sistema de mensagens
