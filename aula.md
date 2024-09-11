@@ -58,7 +58,8 @@ true/false
 ### Arrays
 
 [x] Uma lista que contem qualquer tipo de dado.
-
+[x] Metodos de array: push, find, forEach
+ 
 ### Objetos
 
 - [x] Atributos e métodos
