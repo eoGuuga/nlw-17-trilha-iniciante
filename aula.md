@@ -49,16 +49,16 @@ true/false
 
 ## Operadores
 
-[x] Operador de atribuição de valor (=)
-[x] Operador de concatenação (+)
-[x] Operador de comparação (==) (!= comparação) (<=) (>=) (< >)
-
+[x] Operador de atribuição de valor: (=)
+[x] Operador de concatenação: (+)
+[x] Operador de comparação: (==) (!= comparação) (<=) (>=) (< >)
+[x] Operador spread: ...
 ## Estrutura de dados:
 
 ### Arrays
 
 [x] Uma lista que contem qualquer tipo de dado.
-[x] Metodos de array: push, find, forEach
+[x] Metodos de array: push, [find, forEach, filter]: HOF (Higher Order Functions)
  
 ### Objetos
 
